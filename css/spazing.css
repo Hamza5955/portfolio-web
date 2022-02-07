@@ -10,6 +10,32 @@
   --space-xxxl: 5rem;
 }
 
+.pt-xxs {
+  padding-top: var(--space-xxs);
+}
+.pr-xxs {
+  padding-right: var(--space-xxs);
+}
+.pb-xxs {
+  padding-bottom: var(--space-xxs);
+}
+.pl-xxs {
+  padding-left: var(--space-xxs);
+}
+
+.pt-xs {
+  padding-top: var(--space-xs);
+}
+.pr-xs {
+  padding-right: var(--space-xs);
+}
+.pb-xs {
+  padding-bottom: var(--space-xs);
+}
+.pl-xs {
+  padding-left: var(--space-xs);
+}
+
 .pt {
   padding-top: var(--space);
 }
