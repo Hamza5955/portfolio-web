@@ -2,33 +2,9 @@
 @import "padding.css";
 @import "margin.css";
 @import "font.css";
+@import "utilities.css";
 
 a {
   text-decoration: none;
   color: black;
-}
-
-.flex {
-  display: flex;
-}
-.flex-column {
-  flex-direction: column;
-}
-.flex-row {
-  flex-direction: row;
-}
-.justify-between {
-  justify-content: space-between;
-}
-.grid {
-  display: grid;
-}
-.grid-1-1 {
-  grid-template-columns: 1fr 1fr;
-}
-.grid-2-1 {
-  grid-template-columns: 2fr 1fr;
-}
-.grid-1-2 {
-  grid-template-columns: 1fr 2fr;
 }
