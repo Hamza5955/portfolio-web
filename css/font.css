@@ -1,0 +1,39 @@
+:root {
+  --f1: 3rem;
+  --f2: 2rem;
+  --f3: 1.5rem;
+  --f4: 1.25rem;
+  --f5: 1rem;
+  --f6: 0.75rem;
+  --f7: 0.875rem;
+}
+
+.f1 {
+  font-size: var(--f1);
+}
+.f2 {
+  font-size: var(--f2);
+}
+.f3 {
+  font-size: var(--f3);
+}
+.f4 {
+  font-size: var(--f4);
+}
+.f5 {
+  font-size: var(--f5);
+}
+.f6 {
+  font-size: var(--f6);
+}
+.f7 {
+  font-size: var(--f7);
+}
+
+/* fonts*/
+.space-mono {
+  font-family: "Space Mono", monospace;
+}
+.orbitron {
+  font-family: "Orbitron", sans-serif;
+}
