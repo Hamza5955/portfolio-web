@@ -1,4 +1,6 @@
 @import "spazing.css";
+@import "padding.css";
+@import "margin.css";
 
 a {
   text-decoration: none;
