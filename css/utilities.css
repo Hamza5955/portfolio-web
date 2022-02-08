@@ -49,3 +49,15 @@
 .mw-md {
   max-width: var(--mw-xl);
 }
+
+.cta {
+  display: inline-block;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 50px;
+  font-size: var(--f5);
+  padding-left: var(--space-md);
+  padding-right: var(--space-md);
+  padding-top: var(--space-xxs);
+  padding-bottom: var(--space-xxs);
+}
