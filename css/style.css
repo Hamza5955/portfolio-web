@@ -4,7 +4,25 @@
 @import "font.css";
 @import "utilities.css";
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 a {
   text-decoration: none;
   color: black;
+}
+
+.black {
+  color: #111111;
+}
+.white {
+  color: white;
+}
+.bg-black {
+  background-color: #111111;
+}
+.bg-whitesmoke {
+  background-color: whiteSmoke;
 }

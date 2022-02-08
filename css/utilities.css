@@ -21,6 +21,9 @@
 .justify-between {
   justify-content: space-between;
 }
+.items-center {
+  align-items: center;
+}
 .grid {
   display: grid;
 }
