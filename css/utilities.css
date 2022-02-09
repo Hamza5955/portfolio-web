@@ -29,6 +29,7 @@
 }
 .grid {
   display: grid;
+  grid-gap: var(--space-xl);
 }
 .grid-1-1 {
   grid-template-columns: 1fr 1fr;
